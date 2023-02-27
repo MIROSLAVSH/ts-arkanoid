@@ -1,5 +1,5 @@
 {
-  "homepage": "https://MIROSLAVSH.github.io/arkanoid_game",
+  "homepage": "https://MIROSLAVSH.github.io/ts-arkanoid",
   "name": "ts-parcel",
   "version": "1.0.0",
   "main": "index.js",
@@ -28,7 +28,8 @@
     "eslint-plugin-prettier": "^4.2.1",
     "parcel": "^2.8.3",
     "parcel-bundler": "^1.12.5",
-    "prettier": "^2.8.4"
+    "prettier": "^2.8.4",
+    "webpack": "^5.75.0"
   },
   "repository": {
     "type": "git",
