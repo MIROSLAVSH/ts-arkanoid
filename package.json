@@ -1,6 +1,6 @@
 {
   "homepage": "https://MIROSLAVSH.github.io/ts-arkanoid",
-  "name": "ts-arkanoid",
+  "name": "ts-parcel",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
