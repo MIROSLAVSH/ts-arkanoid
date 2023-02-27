@@ -2,7 +2,7 @@
   "homepage": "https://MIROSLAVSH.github.io/ts-arkanoid",
   "name": "ts-parcel",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "main.js",
   "scripts": {
     "build": "webpack --mode=development",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,7 +29,9 @@
     "parcel": "^2.8.3",
     "parcel-bundler": "^1.12.5",
     "prettier": "^2.8.4",
-    "webpack": "^5.75.0"
+    "webpack": "^5.75.0",
+    "webpack-deploy": "^0.13.1",
+    "webpack-dev-server": "^4.11.1"
   },
   "repository": {
     "type": "git",
